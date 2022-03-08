@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://defensive.works/">
-    <img width="700" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/images/rk-banner.png?raw=true" alt="logo" />
+    <img width="800" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/images/rk-banner.png?raw=true" alt="logo" />
   </a>
 </p>
 
