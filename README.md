@@ -1,8 +1,7 @@
-## Hi, I'm Raajhesh Kannaa Chidambaram
 
 <p align="center">
   <a href="https://defensive.works/">
-    <img width="100" src="https://defensive.works/images/logo.png" alt="logo" />
+    <img width="100" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/images/rk-logo.png?raw=true" alt="logo" />
   </a>
 </p>
 
