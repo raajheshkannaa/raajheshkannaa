@@ -29,6 +29,6 @@
 #### Certifications
 
 <a href="https://www.credly.com/badges/549e77d0-8183-4042-b976-f550bfaccc4e" target="_blank"><img src="https://images.credly.com/size/680x680/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" class="cert" alt='OSCP' width="80px"></a>
-<a href="https://www.credly.com/badges/3eafe2ce-a2cd-410a-8adf-0716f0f74087" target="_blank"><img src="https://images.credly.com/size/680x680/images/ee741c0c-3d57-48e0-82e0-699a2170aa50/AWS-Security-Specialty-2020.png" class="cert" alt='AWS Certified Security – Specialty' width="80px"></a>
-<a href="https://www.credly.com/badges/409ad929-3212-419a-b9f5-69b80aaea2e0" target="_blank"><img src="https://images.credly.com/size/680x680/images/d16e8d20-a603-4ce7-94f0-9dc85e7429ba/AWS-AdvNetworking-Specialty-2020.png" class="cert" alt='AWS Certified Advanced Networking – Specialty
+<a href="https://www.credly.com/badges/3eafe2ce-a2cd-410a-8adf-0716f0f74087" target="_blank"><img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" class="cert" alt='AWS Certified Security – Specialty' width="80px"></a>
+<a href="https://www.credly.com/badges/409ad929-3212-419a-b9f5-69b80aaea2e0" target="_blank"><img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" class="cert" alt='AWS Certified Advanced Networking – Specialty
 ' width="80px"></a>
