@@ -9,7 +9,7 @@
 - 💼 I am a Security Engineer with experience building security at Fortune500, Pre-IPO companies, and exponential growth startups.
 - 👷 I Design & Build Security with focus on Infrastructure, Data, Logging & Monitoring, Identity & Access Management, Incident Response by utilizing Detective & Preventive Guardrails and applying security at all layers through defense in depth. 
 - 🌟 I'm very interested in building Security Automations for the Cloud.
-- 📚 I blog about cloud security at <a href='https://defensive.works/' target='_blank'>defensive.works</a>
+- 📚 I blog about cloud security at <a href='https://www.defensive.works/' target='_blank'>defensive.works</a>
 - 💬 For a more detailed *"About Me"*: <a href='https://raajhe.sh' target='_blank'>raajhe.sh</a>
 
 
@@ -17,7 +17,7 @@
 
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raajheshkannaa)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajhesh-kannaa-chidambaram/)
-[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=markdown&logoColor=white)](https://defensive.works)
+[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=markdown&logoColor=white)](https://www.defensive.works)
 
 
 #### Tech Stack
