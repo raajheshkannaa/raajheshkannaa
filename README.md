@@ -8,8 +8,8 @@
 - 🏆 OSCP, AWS Certified Security Specialty, AWS Certified Advanced Networking Specialty.
 - 💼 I am a Security Engineer with experience building security at Fortune500, Pre-IPO companies, and exponential growth startups.
 - 👷 I Design & Build Security with focus on Infrastructure, Data, Logging & Monitoring, Identity & Access Management, Incident Response by utilizing Detective & Preventive Guardrails and applying security at all layers through defense in depth. 
-- 🌟 I'm very interested in building Security Automations for the Cloud.
-- 📚 I coach aws security beginners, enthusiasts at <a href='https://www.defensive.works/' target='_blank'>defensive.works</a>
+- 🌟 I'm very interested in building Security Automations for the Cloud <a href='https://docs.defensive.works/' target='_blank'>docs.defensive.works</a>
+- 📚 I coach aws security beginners, enthusiasts. 
 - 💬 For a more detailed *"About Me"*: <a href='https://raajhe.sh' target='_blank'>raajhe.sh</a>
 
 
