@@ -1,34 +1,34 @@
-
 <p align="center">
   <a href="https://defensive.works/">
-    <img width="800" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/rk-banner.png?raw=true" alt="logo" />
+    <img width="800" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/rk-banner.png?raw=true" alt="rK — Defensive Works" />
   </a>
 </p>
 
-- 🏆 OSCP, AWS Certified Security Specialty, AWS Certified Advanced Networking Specialty.
-- 💼 I am a Security Engineer with experience building security at Fortune500, Pre-IPO companies, and exponential growth startups.
-- 👷 I Design & Build Security with focus on Infrastructure, Data, Logging & Monitoring, Identity & Access Management, Incident Response by utilizing Detective & Preventive Guardrails and applying security at all layers through defense in depth. 
-- 🌟 I'm very interested in building Security Automations for the Cloud <a href='https://docs.defensive.works/' target='_blank'>docs.defensive.works</a>
-- 📚 I coach aws security beginners, enthusiasts. 
-- 💬 For a more detailed *"About Me"*: <a href='https://raajhe.sh' target='_blank'>raajhe.sh</a>
+### Most companies have one person doing what should be a team's job.
 
+They enable GuardDuty and call it security. They pass audits while attackers move through their infrastructure. The tools work. The gap is always human — not enough people, not enough time, not enough authority to fix what they can see.
 
-#### How to Reach Me?
+I build the tools that close that gap. Open source, Python CDK, designed for teams of 0-200 who know how to write Python but can't afford a CSPM.
 
-[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raajheshkannaa)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raajhesh-kannaa-chidambaram/)
-[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=markdown&logoColor=white)](https://www.defensive.works)
+---
 
+### Writing
 
-#### Tech Stack
+**[Assumed Role](https://github.com/raajheshkannaa/assumed-role)** — A cloud security thriller in six chapters. A solo security engineer. A stolen credential. 72 hours of real AWS attack & defense techniques wrapped in fiction. Every CloudTrail event, SQL query & IAM policy is functional. **[Read the PDF](https://github.com/raajheshkannaa/assumed-role/releases/tag/v1.0)**
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<img src="https://img.shields.io/badge/Linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;<img src="https://img.shields.io/badge/AWS%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+---
 
+### Building
 
-#### Certifications
+| Project | What It Does |
+|---------|-------------|
+| **[attack-surface-management](https://github.com/raajheshkannaa/attack-surface-management)** | Continuous external attack surface discovery & vulnerability scanning across AWS Organizations |
+| **[fleet-access](https://github.com/raajheshkannaa/fleet-access)** | Hub & Spoke IAM roles for multi-account security — self-mutating CDK pipeline, deploys to all org accounts |
+| **[identity-center-automation](https://github.com/raajheshkannaa/identity-center-automation)** | GitOps for AWS IAM Identity Center — Permission Sets & Assignments as Code, PR-reviewed |
+| **[aws-cloudtrail-lake-detections](https://github.com/raajheshkannaa/aws-cloudtrail-lake-detections)** | Detection engineering over CloudTrail Lake — reusable SQL-based detections |
+| **[green-stone](https://github.com/raajheshkannaa/green-stone)** | Real-time Security Group change detection & one-click revert via Slack ChatOps |
+| **[cdk-org-formation](https://github.com/raajheshkannaa/cdk-org-formation)** | Manage AWS Organizations as Code |
 
-<a href="https://www.credly.com/badges/549e77d0-8183-4042-b976-f550bfaccc4e" target="_blank"><img src="https://images.credly.com/size/680x680/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" class="cert" alt='OSCP' width="80px"></a>
-<a href="https://www.credly.com/badges/3eafe2ce-a2cd-410a-8adf-0716f0f74087" target="_blank"><img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" class="cert" alt='AWS Certified Security – Specialty' width="80px"></a>
-<a href="https://www.credly.com/badges/409ad929-3212-419a-b9f5-69b80aaea2e0" target="_blank"><img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" class="cert" alt='AWS Certified Advanced Networking – Specialty
-' width="80px"></a>
+---
+
+<sub>OSCP · AWS Security Specialty · AWS Advanced Networking · Toronto · [defensive.works](https://defensive.works) · [LinkedIn](https://www.linkedin.com/in/raajhesh-kannaa-chidambaram/)</sub>
