@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://defensive.works/">
-    <img width="800" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/rk-banner.png?raw=true" alt="rK — Defensive Works" />
+    <img width="800" src="https://github.com/raajheshkannaa/raajheshkannaa/blob/master/rk-banner.png?raw=true" alt="rK" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 
 They enable GuardDuty and call it security. They pass audits while attackers move through their infrastructure. The tools work. The gap is always human — not enough people, not enough time, not enough authority to fix what they can see.
 
-I build the tools that close that gap. Open source, Python CDK, designed for teams of 0-200 who know how to write Python but can't afford a CSPM.
+These are the tools I wish I had when I was that person.
 
 ---
 
@@ -18,7 +18,7 @@ I build the tools that close that gap. Open source, Python CDK, designed for tea
 
 ---
 
-### Building
+### Projects
 
 | Project | What It Does |
 |---------|-------------|
