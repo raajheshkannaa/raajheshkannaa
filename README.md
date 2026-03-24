@@ -12,6 +12,12 @@ These are the tools I wish I had when I was that person.
 
 ---
 
+### New: [GHA Scanner](https://github.com/raajheshkannaa/gha-scanner) — GitHub Actions Security Scanner
+
+25 security checks across 8 categories: supply chain, injection, dangerous triggers, permissions, secrets exposure, runner security, CI/CD hygiene, best practices. Scan any public repo, get a detailed report with remediation steps. No sign-up, no data stored. **[Try it](https://scan.defensive.works)** | **[Source](https://github.com/raajheshkannaa/gha-scanner)**
+
+---
+
 ### Writing
 
 **[Assumed Role](https://github.com/raajheshkannaa/assumed-role)** — A cloud security thriller in six chapters. A solo security engineer. A stolen credential. 72 hours of real AWS attack & defense techniques wrapped in fiction. Every CloudTrail event, SQL query & IAM policy is functional. **[Read the PDF](https://github.com/raajheshkannaa/assumed-role/releases/tag/v1.0)**
@@ -22,6 +28,7 @@ These are the tools I wish I had when I was that person.
 
 | Project | What It Does |
 |---------|-------------|
+| **[gha-scanner](https://github.com/raajheshkannaa/gha-scanner)** | GitHub Actions security scanner. 25 checks, 8 categories, instant results. **[Live](https://scan.defensive.works)** |
 | **[attack-surface-management](https://github.com/raajheshkannaa/attack-surface-management)** | Continuous external attack surface discovery & vulnerability scanning across AWS Organizations |
 | **[fleet-access](https://github.com/raajheshkannaa/fleet-access)** | Hub & Spoke IAM roles for multi-account security — self-mutating CDK pipeline, deploys to all org accounts |
 | **[identity-center-automation](https://github.com/raajheshkannaa/identity-center-automation)** | GitOps for AWS IAM Identity Center — Permission Sets & Assignments as Code, PR-reviewed |
@@ -31,4 +38,4 @@ These are the tools I wish I had when I was that person.
 
 ---
 
-<sub>OSCP · AWS Security Specialty · AWS Advanced Networking · Toronto · [defensive.works](https://defensive.works) · [LinkedIn](https://www.linkedin.com/in/raajhesh-kannaa-chidambaram/)</sub>
+<sub>OSCP · AWS Security Specialty · AWS Advanced Networking · Toronto · [defensive.works](https://docs.defensive.works) · [LinkedIn](https://www.linkedin.com/in/raajhesh-kannaa-chidambaram/)</sub>
